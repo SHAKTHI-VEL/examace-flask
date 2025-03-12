@@ -7,3 +7,5 @@ Flask
 python-dotenv
 beautifulsoup4
 python-pptx
+flask_cors
+google.generativeai
